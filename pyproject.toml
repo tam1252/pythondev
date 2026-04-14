@@ -1,0 +1,21 @@
+[project]
+name = "pythondev"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4==4.13.3",
+    "ipykernel>=7.2.0",
+    "japanize-matplotlib==1.1.3",
+    "jupyter==1.1.1",
+    "matplotlib==3.9.2",
+    "numpy==1.26.4",
+    "pandas==2.2.3",
+    "pillow==11.1.0",
+    "pmdarima==2.0.4",
+    "scikit-learn==1.6.1",
+    "seaborn==0.13.2",
+    "sktime==0.36.0",
+    "tensorflow==2.18.0",
+]
